@@ -21,9 +21,7 @@ filename, top_left_x, top_left_y, bbox_w, bbox_h
 ### K-Means K = 2
 
 [![image.png](https://i.postimg.cc/bYB7dKw4/image.png)](https://postimg.cc/yW0Qbp9T)
-
 [![image.png](https://i.postimg.cc/rmpHwJX8/image.png)](https://postimg.cc/cKVhDfLj)
-
 [![image.png](https://i.postimg.cc/QNFX6g9G/image.png)](https://postimg.cc/G91wtyxq)
 
 
