@@ -9,6 +9,14 @@ YOLO - anchor boxes - KMeans
 filename, top_left_x, top_left_y, bbox_w, bbox_h
 
 
+## Generating Anchor Boxes using K-Means
+
+> KMeans is an iterative algorithm that divides the unlabeled dataset into k different clusters in such a way that each dataset belongs only one group that has similar properties.
+
+With K-Means, we can group the bounding boxes into clusters
+
+
+
 #### Scatterplot of Bounding Box Width & Height
 [![image.png](https://i.postimg.cc/cHXNDCZJ/image.png)](https://postimg.cc/BLLybqjW)
 
